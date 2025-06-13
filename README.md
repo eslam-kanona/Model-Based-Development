@@ -18,7 +18,7 @@ To prepare engineers for the industry-standard **Model-Based Design (MBD)** work
 
 | Section | Title | Progress | Duration | Description |
 |--------|-------|----------|----------|-------------|
-| 1 | Model-Based Design Concepts | ⏳0/16 | 1h 49m | Introduction to the fundamentals of MBD, benefits, and how it's used in industry. |
+| 1 | Model-Based Design Concepts | ✅16/16 | 1h 49m | Introduction to the fundamentals of MBD, benefits, and how it's used in industry. |
 | 2 | MATLAB Basics Module | ⏳0/24 | 8h 9m | A full tour through MATLAB scripting, variables, plotting, and essential functions. |
 | 3 | MATLAB Basics Solutions (Quiz & Labs) | ⏳ 0/3 | 3h 55m | Practice sessions and hands-on labs to reinforce MATLAB basics. |
 | 4 | Simulink Basics Module | ⏳ 0/20 | 8h 58m | Covers Simulink environment, blocks, simulation settings, and modeling simple systems. |
@@ -34,7 +34,12 @@ To prepare engineers for the industry-standard **Model-Based Design (MBD)** work
 | 14 | Battery Management System (BMS) Project | ⏳ 0/3 | 2h 4m | Final capstone project: modeling and simulation of a full BMS system in Simulink. |
 
 ---
+## ⚡ Quizs
 
+[Quizs Score ](https://docs.google.com/spreadsheets/d/1Gsin9bXqA9eFVS54BV5bosxO51LJQhaFXJlsOSqf8KE/edit?usp=sharing)
+
+
+---
 ## 🧠 Key Skills You'll Gain
 
 - MATLAB scripting & automation
@@ -87,12 +92,12 @@ This diploma gives you practical tools and a complete workflow to simulate, test
 
 🎓 [Model-Based Design Diploma on Udemy – OS Academy](https://www.udemy.com/user/os-academy/)
 
+
 ---
 
 ## 🤝 Credits
 
 - **Instructor:** OS Academy  
-- **Student:** Abdullah Mohamed  
-- **Repository Maintained By:** [Abdullah Mohamed](https://github.com/AbdallahMohamedd)
+- **Student:** Eslam Nagy 
 
 ---
