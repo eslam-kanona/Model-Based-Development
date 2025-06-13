@@ -95,9 +95,3 @@ This diploma gives you practical tools and a complete workflow to simulate, test
 
 ---
 
-## 🤝 Credits
-
-- **Instructor:** OS Academy  
-- **Student:** Eslam Nagy 
-
----
